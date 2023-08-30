@@ -38,7 +38,7 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deployed
-deployed at [http://localhost:3000](http://localhost:3000) via render
+deployed at [`simple-blackjack-123`](https://simple-blackjack-123.netlify.app/) via Netlify
 
 ### Future plans
 - Add to house logic. Have 1 card face down. Draw card for house if 16 or less. Include bust logic for house. 
