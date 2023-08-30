@@ -42,9 +42,11 @@ deployed at [`simple-blackjack-123`](https://simple-blackjack-123.netlify.app/) 
 
 ### Future plans
 - Add to house logic. Have 1 card face down. Draw card for house if 16 or less. Include bust logic for house. 
+- Handle logic if player goes through all the decks, to shuffle cards back in and deal again. 
 - Add tests for helper functions
 - Add a modal that show game rules and a see rules button
 - Maybe even add possible splitting logic for cards of the same value. 
+
 
 
 
